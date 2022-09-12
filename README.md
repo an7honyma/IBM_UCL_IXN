@@ -14,3 +14,4 @@ The folder titled IBM_Skills_Game is used to deploy the web application.
 
 # Releases
 To gain access to the full development material, see the Releases tab. These files are used to continue development on the web application, if the client wishes.
+Alternative link: https://github.com/an7honyma/IBM_UCL_IXN/releases/tag/v1.0.0
