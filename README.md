@@ -11,3 +11,6 @@ The models designed for this project can be found under Assets > FBX.
 The test suites can be found under Assets > Tests > PlayMode.
 
 The folder titled IBM_Skills_Game is used to deploy the web application.
+
+# Releases
+To gain access to the full development material, see the Releases tab. These files are used to continue development on the web application, if the client wishes.
