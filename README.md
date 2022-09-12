@@ -1,6 +1,7 @@
 # IBM_UCL_IXN
 Repository for IXN source code and related files.
 
+# IBM UCL Skills Game Source Code and Build
 The source code can be found under Assets > Scripts.
 
 The models designed for this project can be found under Assets > FBX.
