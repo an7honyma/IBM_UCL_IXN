@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b16246f7e8c5a954eb36a46231df66d2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mcqManager: {instanceID: 0}
+  - incorrectMessage: {fileID: 2484502866189328697, guid: 204bfee408263d943af4ecbb5cf81cc9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
